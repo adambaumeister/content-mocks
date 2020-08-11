@@ -1,0 +1,11 @@
+info:
+  description: |
+    A collection of mocks for common web frameworks aka Wordpress, etc.
+  author: |
+    Adam Baumeister
+  version: 0.1
+runner:
+  address: 0.0.0.0
+  portmin: 8000
+  portmax: 8099
+run:
